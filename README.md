@@ -1,2 +1,3 @@
-# coursera-test
-coursera test repositery
+# my profile
+this is my first repository.
+Auther Aman kumar
